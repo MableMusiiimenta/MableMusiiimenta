@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 
 ## Technologies I Love
 
-- Languages: JavaScript, Python, Java
-- Frontend: React.js, Vue.js
+- Languages: React, React Native, Python, Typescript
+- Frontend: React.js,
 - Backend: Node.js, Django
 - Databases: MySQL, MongoDB
 - Cloud: AWS, Azure
@@ -34,9 +34,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 
 ## Get in Touch
 
-📧 Email: [Your Email Address]
-🌐 LinkedIn: [Your LinkedIn Profile]
-🐦 Twitter: [Your Twitter Handle]
+📧 Email: mablemusii22@gmail.com
+🌐 LinkedIn: Mable Musiimenta
+🐦 Twitter: @musiiimenta
 
 Feel free to explore my projects and reach out if you have any questions or collaboration opportunities!
 
