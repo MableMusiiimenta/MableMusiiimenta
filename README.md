@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Mable Musiimenta 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a knack for building innovative solutions and a love for clean code. Here you'll find a collection of my projects, contributions, and insights into my journey in the world of technology.
 
