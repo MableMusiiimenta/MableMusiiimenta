@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 
 ## Technologies I Love
 
-- Languages: Python![Python](https://www.python.org/static/community_logos/python-logo.png)
-, HTML![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg),
- CSS![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+- Languages: <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="30" height="30">
 
 - Web Frameworks: Bootstrap![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
 , REACT,CSS![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
